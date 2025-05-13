@@ -86,7 +86,7 @@ For Italian cuisine in Los Angeles:
 Here are some example outputs from the food delivery analysis:
 
 - **Italian Cuisine in Los Angeles**:  
-  ![Popular Italian Dishes](Italian_best_selling_dishes.png)
+  ![Popular Italian Dishes](images/Italian_best_selling_dishes.png)
 
 - **Mexican Cuisine in San Francisco**:  
-  ![Popular Mexican Dishes](Mexican_best_selling_dishes.png)
+  ![Popular Mexican Dishes](images/Mexican_best_selling_dishes.png)
